@@ -1,0 +1,28 @@
+SELECCIÓN DE ASSETS PARA ECOCARRITO
+
+Residuos: Recycle items set, Clint Bellanger.
+https://opengameart.org/content/recycle-items-set
+Licencia elegida: CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+Modificaciones: sprites separados de la hoja original, renombrados; en el video se escalan, giran y componen en escena.
+Crédito: Recycle items art by Clint Bellanger, CC BY 3.0; sprites separados y adaptados para EcoCarrito.
+
+Contenedores: FREE Pixel Art Trash Pack - Animated, KARSIORI STUDIO.
+https://karsiori.itch.io/free-pixel-art-trash-pack-animated
+CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Un contenedor con ruedas del mismo paquete se usa como jugador. No es un carrito nuevo dibujado.
+
+Fondo: FREE Pixel Art - City Parallax Background, KARSIORI STUDIO.
+https://karsiori.itch.io/free-pixel-art-city-background-pack
+CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+Sonidos: Interface Sounds, Kenney.
+https://kenney.nl/assets/interface-sounds
+CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
+Importar los PNG como Sprite (2D and UI), Filter Mode Point, Compression None.
+Los paneles, las vías, los textos y las partículas se dibujan para esta maqueta.
+La selección contiene recursos, no un proyecto Unity ejecutable.
+
+PORTADA: cover_arcade.png, imagen creada para EcoCarrito mediante la herramienta integrada de generación de imágenes; prompt en PORTADA_PROMPT.txt.
+FUENTE: DejaVu Sans Bold, licencia en LICENCIA_FUENTE.txt.
+MÚSICA: Beyond_the_Final_Limit.mp3, suministrada por el usuario; no pertenece al paquete CC0 de Kenney.

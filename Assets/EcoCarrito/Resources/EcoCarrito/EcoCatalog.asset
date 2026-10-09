@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecd4be0c6ef25cff8b5de53f05038fbf, type: 3}
+  m_Name: EcoCatalog
+  m_EditorClassIdentifier: 
+  wastes:
+  - label: "Botella pl\xE1stica"
+    kind: 0
+    sprite: {fileID: 21300000, guid: c7e3ab2f04fa59448f27fd1321076ef5, type: 3}
+  - label: Envase de leche
+    kind: 0
+    sprite: {fileID: 21300000, guid: 37ca05ef09a05ae7b58ecee7574bf464, type: 3}
+  - label: Envase de detergente
+    kind: 0
+    sprite: {fileID: 21300000, guid: a9f42b3e98315e14814b600556e247d8, type: 3}
+  - label: "Caja de cart\xF3n"
+    kind: 1
+    sprite: {fileID: 21300000, guid: ad0a2666e5e6560cb9f96f7318f6163d, type: 3}
+  - label: "Peri\xF3dico"
+    kind: 1
+    sprite: {fileID: 21300000, guid: b33b213f5ce15632b42ea41cfd141420, type: 3}
+  - label: Bolsa de papel
+    kind: 1
+    sprite: {fileID: 21300000, guid: 6c339bb9577953c0afa100efe6cb0015, type: 3}
+  - label: Botella de vidrio
+    kind: 2
+    sprite: {fileID: 21300000, guid: 15ea54f8c61e585093212cd4ba8a9e0d, type: 3}
+  - label: Frasco de vidrio
+    kind: 2
+    sprite: {fileID: 21300000, guid: 77b79b837fb159f5a3210e338a73f1bd, type: 3}
+  - label: "Botella de vidrio marr\xF3n"
+    kind: 2
+    sprite: {fileID: 21300000, guid: e2cf1d25fecd5225bf5ef4819f4c227e, type: 3}
+  - label: Aerosol peligroso
+    kind: 3
+    sprite: {fileID: 21300000, guid: af9af507a9cb5d75948b0125e0ba82cd, type: 3}
+  collectorFrames:
+  - {fileID: 21300000, guid: 755cc1dfc1295410afbc5a501a0ba69a, type: 3}
+  - {fileID: 21300000, guid: 4ba243ad89de51c99063808027f6b296, type: 3}
+  - {fileID: 21300000, guid: cc6245edb0ed5a78a7e1ff920fd51972, type: 3}
+  - {fileID: 21300000, guid: 516a321de140500f91334a6013a83dfa, type: 3}
+  - {fileID: 21300000, guid: 125dac2bf3e15c7790fdb058713a7136, type: 3}
+  - {fileID: 21300000, guid: 207f88349d1155a4925008a5f62594df, type: 3}
+  backgroundLayers:
+  - {fileID: 21300000, guid: 467610dd227854f78f0854535adec8ed, type: 3}
+  - {fileID: 21300000, guid: 0835a85a3eca5526b284b7fd2c5589ac, type: 3}
+  - {fileID: 21300000, guid: 7fdb531ceff35db5bd040b9e091f3195, type: 3}
+  - {fileID: 21300000, guid: 1b77ced8fd6e5a429a748e3517e57783, type: 3}
+  - {fileID: 21300000, guid: 291b6f2312ea57b8ba24eb2f744539ad, type: 3}
+  - {fileID: 21300000, guid: 7d209bbf8bd650228ab6c772fd689650, type: 3}
+  collectSound: {fileID: 8300000, guid: a2f21978c4065615a1e0f34f87df6e3b, type: 3}
+  errorSound: {fileID: 8300000, guid: 4abf4cec73e75f7d83e308c1cc16aa51, type: 3}
+  startSound: {fileID: 8300000, guid: dc50f8005cd45bc39c0249887729dae8, type: 3}
+  musicClip: {fileID: 8300000, guid: 41d5c3d81e675d9a99eecae6064f5d18, type: 3}
+  musicVolume: 0.24
+  wasteHeight: 1.1
+  collectorHeight: 1.65
+  introSeconds: 6.5
+  countdownSeconds: 3
+  roundSeconds: 60
+  basePoints: 100
+  wrongDamage: 12
+  hazardDamage: 20
+  startInterval: 0.9
+  finalInterval: 0.38
+  startSpeed: 6
+  finalSpeed: 10
+  difficultyRampSeconds: 40
+  matchingProbability: 0.6
+  hazardProbability: 0.08

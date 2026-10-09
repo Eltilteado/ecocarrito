@@ -1,0 +1,4 @@
+MODO: herramienta integrada de generación de imágenes.
+ARCHIVO: Resources/EcoCarrito/Art/UI/cover_arcade.png.
+PROMPT:
+Finished 16:9 title-screen illustration for a Unity 2D recycling arcade game. High-quality 16-bit pixel-art cover, crisp pixels, no photorealism. A chunky charcoal wheeled recycling dumpster with an open hinged lid, dynamic plastic bottle, cardboard box and green glass bottle flying toward it; cheerful energetic urban cleanup arcade personality. Violet twilight pixel-art city, turquoise windows. Bold dark outlines with cream sticker highlights. Cyan/plastic, golden-yellow/paper and mint-green/glass accents. Large custom chunky block lettering at upper center, two stacked lines, exact text ECO / CARRITO: ECO mint, CARRITO golden yellow, dark violet outline, cream outer keyline and offset shadow. Reserve bottom 24 percent as dark-purple street for clickable Unity UI. No drawn buttons, HUD, brands, watermarks or additional text.
